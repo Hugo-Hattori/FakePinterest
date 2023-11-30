@@ -7,6 +7,7 @@ from fakepinterest.models import Usuario, Post
 import os
 from werkzeug.utils import secure_filename
 
+
 @app.route("/", methods=["GET", "POST"])
 def homepage():
     form_login = FormLogin()

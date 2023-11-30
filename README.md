@@ -46,13 +46,13 @@ allows for free website deployments for simple applications. Although Render sus
 web application that are inactive for certain period of time.</p>
 
 ## Website's Feed
-![img.png](img.png)
+![img.png](imgs/img.png)
 
 ## Login Page
-![img_1.png](img_1.png)
+![img_1.png](imgs/img_1.png)
 
 ## Create Account Page
-![img_2.png](img_2.png)
+![img_2.png](imgs/img_2.png)
 
 <p>Note 1: the forementioned external front-end course comes from an online course called
 "Hashtag Treinamentos" (https://www.hashtagtreinamentos.com)</p>
